@@ -132,7 +132,7 @@ p {
 }
 
 /* customizing container displays  */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.search-engine-optimization {
     min-height: 300px;
     margin-bottom: 20px;
     padding: 50px;
@@ -143,12 +143,12 @@ p {
 
 
 /* setting max height for images */
-.search-engine-optimization img, .social-media-marketing img, .online-reputation-management img {
+.search-engine-optimization img {
     max-height: 200px;
 }
 
 /* adjusting font size */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
