@@ -22,9 +22,8 @@ Source code was provided and minor edits were made for search engine optimizaton
 
 ## Screenshots
 
-![Screenshot](./assets/images/Screen%20Shot%202022-05-20%20at%203.09.28%20PM.png)
-![Screenshot](./assets/images/Screen%20Shot%202022-05-20%20at%203.09.36%20PM.png)
-![Screenshot](./assets/images/Screen%20Shot%202022-05-20%20at%203.09.41%20PM.png)
+![Screenshot](./assets/images/Screen%20Shot%202022-07-20%20at%2012.54.55%20PM.png)
+![Screenshot](./assets/images/Screen%20Shot%202022-07-20%20at%2012.55.04%20PM.png)
 
 ## License
 
